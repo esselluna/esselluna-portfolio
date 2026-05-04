@@ -827,7 +827,6 @@ header{
 	ul{
 		li{
 			list-style: none;
-			margin-bottom: 10px;
 			&::before {
 				content: '\2022'; 
 				color: $brand-black;
